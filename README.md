@@ -19,9 +19,4 @@ Watch Live Site
 
 https://dazzling-gumdrop-44cec7.netlify.app/
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [ReactJS Doucumentation](https://reactjs.org/docs) - learn about reactjs features and API.
-- [Learn reactjs.org](https://reactjs.org/learn) - an interactive Reactjs tutorial.
