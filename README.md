@@ -17,6 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Watch Live Site
 
-https://dazzling-gumdrop-44cec7.netlify.app/
+https://modernbank-page-ui.netlify.app/
 
 
